@@ -13,4 +13,9 @@
   <img height="220cm" width="395cm" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arcanjo855&layout=compact&langs_count=7&theme=radical"/>
 </div>
 
+ ##
  
+ 
+
+  <a href = "mailto:rafaelarcanjo129@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/rafael-arcanjo/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
