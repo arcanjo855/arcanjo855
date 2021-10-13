@@ -4,8 +4,7 @@
  
 - Living in SP, Brazil.
 - I'm currently learning Computer Science at the university Cruzeiro do Sul institute.
-- Programming enthusiast and always looking to send me as a person and as a good programmer.
-
+- Programming enthusiast and always looking to innovate as a person and as a good programmer.
  ##
  
 <div align="center">
