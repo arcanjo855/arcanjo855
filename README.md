@@ -5,6 +5,7 @@
 - Living in SP, Brazil.
 - I'm currently learning Computer Science at the university Cruzeiro do Sul institute.
 - Programming enthusiast and always looking to innovate as a person and as a good programmer.
+
  ##
  
 <div align="center">
@@ -16,6 +17,5 @@
  ##
  
  
-
   <a href = "mailto:rafaelarcanjo129@hotmail.com"><img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/rafael-arcanjo/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
