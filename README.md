@@ -3,7 +3,7 @@
  ##
  
 - Living in SP, Brazil.
-- I'm currently learning Computer Science at the university Cruzeiro do Sul institute.
+- I'm currently learning Systems analysis and development at the university Anhembi Morumbi institute.
 - Programming enthusiast and always looking to innovate as a person and as a good programmer.
 
  ##
